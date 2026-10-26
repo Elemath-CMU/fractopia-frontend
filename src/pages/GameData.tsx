@@ -1,4 +1,5 @@
 import { ep1 } from "./GameDataEP1";
+// import { ep10 } from "./GameDataEP10"; // example for presentation, not included in the game
 import { ep2 } from "./GameDataEP2";
 import { ep3 } from "./GameDataEP3";
 import { ep4 } from "./GameDataEP4";
@@ -162,4 +163,5 @@ export const gameData: InteractiveGameData[][] = [
   ep7,
   ep8,
   ep9,
+  // ep10, // example for presentation, not included in the game
 ]
